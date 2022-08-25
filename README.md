@@ -3,6 +3,8 @@ Task application, made with React, NodeJS, Express &amp; Mysql.
 
 El proyecto se divide en parte client(frontend), parte server(backend).
 
+### El proyecto consiste en poder hacer el CRUD con tareas, en la pantalla principal se muestran todas las tareas, cada tarjeta es una tarea diferente en donde tienen tres botones, eliminar, modificar y marcar como compleatada o no (con una cruz no realizada o un tick marcada como hecha).
+
 El la realización del mismo se utilizó las siguientes tecnologías: React + vite, nodeJS, Express & Mysql. Cabe mencionar que la página esta diseñada 
 para que se visualice correctamente tanto en PC cómo en celulares.
 
